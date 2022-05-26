@@ -2,6 +2,9 @@
 >
 The dependencies are listed below. The app was created by aggregating multiple apps' logic and tweaking the dashboards.  Love splunk because it so easily allows you to stand on the shoulders of Giants and call yourself tall.  The Splunkbase is such a good resource to turn your data into information.  
 > 
+
+ALSO:
+>
 This was a fun project that nobody cared about until the recent class just used it.  It was very awesome seeing it being leveraged, but also leveraged correctly.  Turning data into information is cool, but it doesn't become knowledge until leveraged and shared. 
 > 
 So special thanks to Kevin and his class for the humbling experience to see some bad ass professionals do some bad ass Defending and the two way street of building knowledge.
