@@ -13,19 +13,19 @@ Click App Manage Apps
 	Install the Bastogne.spl
 
 Install the Dependencies.
-	> link-analysis-app-for-splunk_161.tgz
-	> splunk-add-on-for-microsoft-sysmon_1062.tgz
-	> force-directed-app-for-splunk_301.tgz
-	> timeline-custom-visualization_140.tgz
-	> lookup-file-editor_333.tgz
-	> sankey-diagram-custom-visualization_140.tgz
-	> sideview-utils-free-internal-use-license_3410.tgz
-	> Punchcard app 
+> link-analysis-app-for-splunk_161.tgz
+> splunk-add-on-for-microsoft-sysmon_1062.tgz
+> force-directed-app-for-splunk_301.tgz
+> timeline-custom-visualization_140.tgz
+> lookup-file-editor_333.tgz
+> sankey-diagram-custom-visualization_140.tgz
+> sideview-utils-free-internal-use-license_3410.tgz
+> Punchcard app 
 
 Hide non-necessary apps and keep from checking for updates from the menu
-	> Manage Apps again
-	> click edit properties
-	> radio buttons for the check for updates and view in menu are unselected and selected as applicable.
+> Manage Apps again
+> click edit properties
+> radio buttons for the check for updates and view in menu are unselected and selected as applicable.
 
 
 I used 'infosec-indexes' from another applicaton for some searches. 
